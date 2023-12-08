@@ -12,14 +12,57 @@
 	<atom:link href="https://metododiegoaguiar.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://metododiegoaguiar.com</link>
 	<description>Acesso Vip</description>
-	<lastBuildDate>Tue, 05 Dec 2023 00:35:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Dec 2023 06:11:59 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
+		<title>Saque Social &#8211; Consulte!</title>
+		<link>https://metododiegoaguiar.com/elementor-597/</link>
+		
+		<dc:creator><![CDATA[adminroma]]></dc:creator>
+		<pubDate>Fri, 08 Dec 2023 06:10:58 +0000</pubDate>
+				<guid isPermaLink="false">https://metododiegoaguiar.com/?page_id=597</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-page" data-elementor-id="597" class="elementor elementor-597" data-elementor-post-type="page">
+							<div class="elementor-element elementor-element-7d727fa e-flex e-con-boxed e-con e-parent" data-id="7d727fa" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-cdd9afd elementor-widget elementor-widget-html" data-id="cdd9afd" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Establece el tamaño del iframe al 100% de la ventana del navegador */
+        iframe {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none; /* Elimina el borde del iframe */
+        }
+    </style>
+</head>
+<body>
+    <!-- iframe que muestra el contenido del enlace proporcionado -->
+    <iframe src="https://chat.atendimentoonline.fun/ss"></iframe>
+</body>
+</html>		</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Elementor #576</title>
 		<link>https://metododiegoaguiar.com/elementor-576/</link>
 		
@@ -613,13 +656,13 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-1ede260 elementor-widget elementor-widget-shortcode" data-id="1ede260" data-element_type="widget" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-shortcode"><typebot-standard id="n15WjEGQJD" style="width: 100%; height: 600px;"></typebot-standard><script type="module">
+					<div class="elementor-shortcode"><typebot-standard id="lUYVhvWXgO" style="width: 100%; height: 600px;"></typebot-standard><script type="module">
     import Typebot from "https://cdn.jsdelivr.net/npm/@typebot.io/js@0.2/dist/web.js"
 
     const urlParams = new URLSearchParams(window.location.search);
     const queryParams = Object.fromEntries(urlParams.entries());
 
-    Typebot.initStandard({ apiHost: "https://chat.atendimentoonline.fun", id: "n15WjEGQJD", typebot: "saquesocial", prefilledVariables: { ...window.typebotWpUser, ...queryParams } });</script></div>
+    Typebot.initStandard({ apiHost: "https://chat.atendimentoonline.fun", id: "lUYVhvWXgO", typebot: "saquesocial", prefilledVariables: { ...window.typebotWpUser, ...queryParams } });</script></div>
 				</div>
 				</div>
 					</div>
